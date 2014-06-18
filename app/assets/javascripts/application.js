@@ -15,5 +15,5 @@
 //= require_tree .
 //= require jquery.easyWizard
 //= require bootstrap
-//= require jquery.snippet.min
+//= require jquery.snippet
 //= require scripts
