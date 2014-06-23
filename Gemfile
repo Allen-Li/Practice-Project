@@ -9,6 +9,12 @@ gem 'sqlite3'
 
 gem 'haml', '~> 3.1.4'
 
+gem 'simple_form'
+
+# Inherited Resources speeds up development by making your controllers inherit all restful actions so you just have to focus on what is important.
+# http://rubygems.org/gems/inherited_resources
+gem "inherited_resources", "~> 1.3.1"
+
 
 # Gems used only for assets and not required
 # in production environments by default.

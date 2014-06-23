@@ -58,4 +58,10 @@ PracticeProject::Application.routes.draw do
 
   resources :high_schools
 
+  namespace :my do
+    resources :simple_forms
+  end
+
+
+
 end
